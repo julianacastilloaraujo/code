@@ -4,6 +4,6 @@
 * Parrafo
 * Boton
 # Estuctura de diseno CSS (Cascading Style Sheets)🎨 
-* asignando un color 💙 
+* Asignando un color 💙 
   
 # Asignatura de Linea de Profundizacion II, Ucundinamarca 🇨🇴
